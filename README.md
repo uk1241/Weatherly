@@ -26,3 +26,13 @@ Weatherly is a lightweight SwiftUI-based iOS application that fetches real-time 
 	•	URLSession
 	•	Codable
 	•	Xcode
+🔧 How to Run
+	1.	Get your free API key from OpenWeatherMap.
+	2.	Replace the AppConstants.API.apiKey placeholder with your actual key.
+	3.	Build and run the app in Xcode (iOS Simulator or real device).
+
+💡 Future Enhancements
+	•	Add weather icons and more detailed forecast
+	•	Include support for temperature units toggle (Celsius ↔️ Fahrenheit)
+	•	Add support for geolocation-based weather
+	•	Implement a settings page
